@@ -1,0 +1,12 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <foaf:givenname>Simon</foaf:givenname>
+  <foaf:nick>Lumagnus</foaf:nick>
+  <foaf:family_name>Clemenceau</foaf:family_name>
+  <foaf:homepage rdf:resource="https://lumagnus.github.io"/>
+</foaf:Person>
+</rdf:RDF>
