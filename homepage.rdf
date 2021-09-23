@@ -14,9 +14,9 @@
         <foaf:family_name>Clemenceau</foaf:family_name>
         <foaf:nick>Lumagnus</foaf:nick>
         <foaf:mbox_sha1sum>950ea9687de21e94dd77cdc3eb1284a4d1027f20</foaf:mbox_sha1sum>
-        <foaf:homepage rdf:resource="lumagnus.github.io" />
-        <foaf:phone rdf:resource="tel:0638428651" />
-        <foaf:schoolHomepage rdf:resource="https://www.univ-larochelle.fr" />
+        <foaf:homepage>lumagnus.github.io</foaf:homepage>
+        <foaf:phone>0638428651</foaf:phone>
+        <foaf:schoolHomepage rdf:resource="https://www.univ-larochelle.fr">https://www.univ-larochelle.fr</foaf:schoolHomepage>
         <foaf:knows>
             <foaf:Person>
                 <foaf:name>Kyllian Gérard</foaf:name>

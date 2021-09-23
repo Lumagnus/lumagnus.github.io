@@ -8,10 +8,10 @@
    xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
 
-<xsl:template match="/">
+<xsl:template match="/rdf:RDF/">
   <html>
   <body>
-  <h1><xsl:value-of select="rdf:RDF/foaf:Person/foaf:name"/></h1>
+  <h1><xsl:value-of select="foaf:Person/foaf:name"/></h1>
   <h2>Person</h2>
    <dl>
     <dt>givenname</dt>
